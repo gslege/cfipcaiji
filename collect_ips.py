@@ -7,7 +7,7 @@ import os
 urls = [
     'https://ip.164746.xyz', 
     'https://stock.hostmonit.com/CloudFlareYes',
-    'https://www.wetest.vip/page/cloudflare/address_v4.html'
+    'https://www.wetest.vip/page/cloudflare/address_v4.html',
     'https://api.uouin.com/cloudflare.html'
 ]
 
