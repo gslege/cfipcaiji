@@ -6,10 +6,13 @@ import os
 # 目标URL列表
 urls = [
     'https://ip.164746.xyz', 
-    'https://cf-ip.cdtools.click/shenzhen', 
     'https://stock.hostmonit.com/CloudFlareYes',
     'https://www.wetest.vip/page/cloudflare/address_v4.html',
-    'https://api.uouin.com/cloudflare.html'
+    'https://api.uouin.com/cloudflare.html', 
+    'https://cf-ip.cdtools.click/beijing', 
+    'https://cf-ip.cdtools.click/shanghai', 
+    'https://cf-ip.cdtools.click/chengdu', 
+    'https://cf-ip.cdtools.click/shenzhen'
 ]
 
 # 正则表达式用于匹配IP地址
