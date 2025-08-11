@@ -6,6 +6,8 @@ import os
 # 目标URL列表
 urls = [
     'https://ip.164746.xyz', 
+    'https://raw.githubusercontent.com/gslege/cf-speed-dns/refs/heads/main/ipTop.html', 
+    'https://github.com/gslege/cf-speed-dns/blob/main/ipTop10.html', 
     'https://stock.hostmonit.com/CloudFlareYes',
     'https://www.wetest.vip/page/cloudflare/address_v4.html',
     'https://api.uouin.com/cloudflare.html'
