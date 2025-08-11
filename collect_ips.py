@@ -13,7 +13,7 @@ urls = [
     'https://cf-ip.cdtools.click/shanghai', 
     'https://cf-ip.cdtools.click/chengdu', 
     'https://cf-ip.cdtools.click/shenzhen',
-    'https://vps789.com/cfip/'
+    'https://vps789.com/cfip'
 ]
 
 # 正则表达式用于匹配IP地址
