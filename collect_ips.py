@@ -9,6 +9,7 @@ urls = [
     'https://stock.hostmonit.com/CloudFlareYes',
     'https://www.wetest.vip/page/cloudflare/address_v4.html',
     'https://api.uouin.com/cloudflare.html', 
+    'https://raw.githubusercontent.com/xingpingcn/enhanced-FaaS-in-China/refs/heads/main/Cf.json', 
     'https://cf-ip.cdtools.click/beijing', 
     'https://cf-ip.cdtools.click/shanghai', 
     'https://cf-ip.cdtools.click/chengdu', 
