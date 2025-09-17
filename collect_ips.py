@@ -11,6 +11,7 @@ urls = [
     'https://api.uouin.com/cloudflare.html', 
     'https://raw.githubusercontent.com/xingpingcn/enhanced-FaaS-in-China/refs/heads/main/Cf.json', 
     'https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/', 
+    'https://ipdb.api.030101.xyz/?type=cfv4;proxy', 
     'https://cf-ip.cdtools.click/beijing', 
     'https://cf-ip.cdtools.click/shanghai', 
     'https://cf-ip.cdtools.click/chengdu', 
