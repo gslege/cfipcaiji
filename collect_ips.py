@@ -15,7 +15,7 @@ TEST_PORT = 443
 CONNECT_TIMEOUT_S = 2.5
 MAX_WORKERS = 200
 TOP_N = 120
-OUTPUT_TXT = "cfip7.txt"
+OUTPUT_TXT = "ip.txt"
 
 
 # -------------------- Sources (from 2.py) --------------------
@@ -237,5 +237,6 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+
 
 
