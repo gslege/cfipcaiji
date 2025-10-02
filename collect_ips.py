@@ -52,7 +52,7 @@ if unique_ips:
     
     with open('ip.txt', 'w') as file:
         for ip in sorted_ips:
-            file.write(ip + '\n')
+            file.write(ip + 优选IP'\n')
     print(f'已保存 {len(sorted_ips)} 个唯一IP地址到ip.txt文件。')
 else:
     print('未找到有效的IP地址。')
